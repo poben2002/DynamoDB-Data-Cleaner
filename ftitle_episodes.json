@@ -1,0 +1,6790 @@
+{
+    "Episodes": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0511113"
+                    },
+                    "parentTconst": {
+                        "S": "tt0088478"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "10"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0516772"
+                    },
+                    "parentTconst": {
+                        "S": "tt0417299"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "5"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0554955"
+                    },
+                    "parentTconst": {
+                        "S": "tt0063890"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "126"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0562083"
+                    },
+                    "parentTconst": {
+                        "S": "tt0047728"
+                    },
+                    "seasonNumber": {
+                        "N": "6"
+                    },
+                    "episodeNumber": {
+                        "N": "11"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0573269"
+                    },
+                    "parentTconst": {
+                        "S": "tt0415421"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0574857"
+                    },
+                    "parentTconst": {
+                        "S": "tt0058801"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "4"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0578762"
+                    },
+                    "parentTconst": {
+                        "S": "tt0059983"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "10"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0581195"
+                    },
+                    "parentTconst": {
+                        "S": "tt0041024"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "3"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0581712"
+                    },
+                    "parentTconst": {
+                        "S": "tt0338607"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "6"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0585331"
+                    },
+                    "parentTconst": {
+                        "S": "tt0222560"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0615356"
+                    },
+                    "parentTconst": {
+                        "S": "tt0392974"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "3"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0692331"
+                    },
+                    "parentTconst": {
+                        "S": "tt0077076"
+                    },
+                    "seasonNumber": {
+                        "N": "13"
+                    },
+                    "episodeNumber": {
+                        "N": "19"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0699122"
+                    },
+                    "parentTconst": {
+                        "S": "tt0344718"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0703471"
+                    },
+                    "parentTconst": {
+                        "S": "tt0106136"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "17"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0710036"
+                    },
+                    "parentTconst": {
+                        "S": "tt0101205"
+                    },
+                    "seasonNumber": {
+                        "N": "5"
+                    },
+                    "episodeNumber": {
+                        "N": "15"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0711264"
+                    },
+                    "parentTconst": {
+                        "S": "tt0101209"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "19"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0732453"
+                    },
+                    "parentTconst": {
+                        "S": "tt0320991"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0761285"
+                    },
+                    "parentTconst": {
+                        "S": "tt0121955"
+                    },
+                    "seasonNumber": {
+                        "N": "9"
+                    },
+                    "episodeNumber": {
+                        "N": "13"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0765857"
+                    },
+                    "parentTconst": {
+                        "S": "tt0118252"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "10"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0800732"
+                    },
+                    "parentTconst": {
+                        "S": "tt0472642"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "71"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0838394"
+                    },
+                    "parentTconst": {
+                        "S": "tt0488259"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "99"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0854644"
+                    },
+                    "parentTconst": {
+                        "S": "tt0123366"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0857552"
+                    },
+                    "parentTconst": {
+                        "S": "tt0084987"
+                    },
+                    "seasonNumber": {
+                        "N": "10"
+                    },
+                    "episodeNumber": {
+                        "N": "66"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0858068"
+                    },
+                    "parentTconst": {
+                        "S": "tt0289813"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0884924"
+                    },
+                    "parentTconst": {
+                        "S": "tt0084987"
+                    },
+                    "seasonNumber": {
+                        "N": "14"
+                    },
+                    "episodeNumber": {
+                        "N": "54"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0902403"
+                    },
+                    "parentTconst": {
+                        "S": "tt0285375"
+                    },
+                    "seasonNumber": {
+                        "N": "9"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0919274"
+                    },
+                    "parentTconst": {
+                        "S": "tt0139768"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "5"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0927978"
+                    },
+                    "parentTconst": {
+                        "S": "tt0056787"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "2"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0931085"
+                    },
+                    "parentTconst": {
+                        "S": "tt0201169"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "4"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0936943"
+                    },
+                    "parentTconst": {
+                        "S": "tt0165049"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "9"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0944338"
+                    },
+                    "parentTconst": {
+                        "S": "tt0468420"
+                    },
+                    "seasonNumber": {
+                        "N": "5"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt0975611"
+                    },
+                    "parentTconst": {
+                        "S": "tt0069658"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "8243"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt10057680"
+                    },
+                    "parentTconst": {
+                        "S": "tt1889878"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "271"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt10139394"
+                    },
+                    "parentTconst": {
+                        "S": "tt1868745"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1225"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt10204736"
+                    },
+                    "parentTconst": {
+                        "S": "tt0069658"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "11708"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1043132"
+                    },
+                    "parentTconst": {
+                        "S": "tt0461088"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt10481574"
+                    },
+                    "parentTconst": {
+                        "S": "tt10479178"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "7"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1052808"
+                    },
+                    "parentTconst": {
+                        "S": "tt0096636"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt10528380"
+                    },
+                    "parentTconst": {
+                        "S": "tt0219434"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "131"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt10570734"
+                    },
+                    "parentTconst": {
+                        "S": "tt4743386"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "54"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt10602310"
+                    },
+                    "parentTconst": {
+                        "S": "tt6342474"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "116"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt10647818"
+                    },
+                    "parentTconst": {
+                        "S": "tt0493232"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "57"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1065130"
+                    },
+                    "parentTconst": {
+                        "S": "tt1022930"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "5"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt10685010"
+                    },
+                    "parentTconst": {
+                        "S": "tt7598598"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "6"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt10715814"
+                    },
+                    "parentTconst": {
+                        "S": "tt10696060"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "2"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1072013"
+                    },
+                    "parentTconst": {
+                        "S": "tt0166421"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "24"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt10744956"
+                    },
+                    "parentTconst": {
+                        "S": "tt8993360"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1466"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1076554"
+                    },
+                    "parentTconst": {
+                        "S": "tt0217211"
+                    },
+                    "seasonNumber": {
+                        "N": "11"
+                    },
+                    "episodeNumber": {
+                        "N": "139"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt10766510"
+                    },
+                    "parentTconst": {
+                        "S": "tt10613514"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "9"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1083746"
+                    },
+                    "parentTconst": {
+                        "S": "tt0313118"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "25"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt10848380"
+                    },
+                    "parentTconst": {
+                        "S": "tt10157596"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "646"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt10884574"
+                    },
+                    "parentTconst": {
+                        "S": "tt5292408"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "772"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt10895008"
+                    },
+                    "parentTconst": {
+                        "S": "tt0410961"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt10904598"
+                    },
+                    "parentTconst": {
+                        "S": "tt1034915"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "292"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt10931128"
+                    },
+                    "parentTconst": {
+                        "S": "tt0846614"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "23"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt10931590"
+                    },
+                    "parentTconst": {
+                        "S": "tt0764957"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "18"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt10934950"
+                    },
+                    "parentTconst": {
+                        "S": "tt10933400"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "35"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt11033872"
+                    },
+                    "parentTconst": {
+                        "S": "tt2057880"
+                    },
+                    "seasonNumber": {
+                        "N": "16"
+                    },
+                    "episodeNumber": {
+                        "N": "148"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt11119910"
+                    },
+                    "parentTconst": {
+                        "S": "tt1863531"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "232"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt11189680"
+                    },
+                    "parentTconst": {
+                        "S": "tt10195746"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "76"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt11193434"
+                    },
+                    "parentTconst": {
+                        "S": "tt7406432"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt11225140"
+                    },
+                    "parentTconst": {
+                        "S": "tt4816922"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt11444066"
+                    },
+                    "parentTconst": {
+                        "S": "tt9501732"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "45"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt11699200"
+                    },
+                    "parentTconst": {
+                        "S": "tt1301230"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "424"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt11715016"
+                    },
+                    "parentTconst": {
+                        "S": "tt3004376"
+                    },
+                    "seasonNumber": {
+                        "N": "6"
+                    },
+                    "episodeNumber": {
+                        "N": "93"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt11717790"
+                    },
+                    "parentTconst": {
+                        "S": "tt4841390"
+                    },
+                    "seasonNumber": {
+                        "N": "12"
+                    },
+                    "episodeNumber": {
+                        "N": "17"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt11824888"
+                    },
+                    "parentTconst": {
+                        "S": "tt10266426"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "258"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt11825280"
+                    },
+                    "parentTconst": {
+                        "S": "tt4476002"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "415"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt11833214"
+                    },
+                    "parentTconst": {
+                        "S": "tt11833010"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt12027554"
+                    },
+                    "parentTconst": {
+                        "S": "tt1086193"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "3061"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt12078982"
+                    },
+                    "parentTconst": {
+                        "S": "tt6736832"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "49"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt12179016"
+                    },
+                    "parentTconst": {
+                        "S": "tt12126032"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "802"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1219843"
+                    },
+                    "parentTconst": {
+                        "S": "tt0968776"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "4"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt12199160"
+                    },
+                    "parentTconst": {
+                        "S": "tt1191056"
+                    },
+                    "seasonNumber": {
+                        "N": "12"
+                    },
+                    "episodeNumber": {
+                        "N": "7"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt12211360"
+                    },
+                    "parentTconst": {
+                        "S": "tt3667052"
+                    },
+                    "seasonNumber": {
+                        "N": "15"
+                    },
+                    "episodeNumber": {
+                        "N": "3"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt12365664"
+                    },
+                    "parentTconst": {
+                        "S": "tt12362380"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "3"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt12452518"
+                    },
+                    "parentTconst": {
+                        "S": "tt10691888"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "26"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt12487622"
+                    },
+                    "parentTconst": {
+                        "S": "tt9206018"
+                    },
+                    "seasonNumber": {
+                        "N": "5"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt12494536"
+                    },
+                    "parentTconst": {
+                        "S": "tt0046641"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1928"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt12498628"
+                    },
+                    "parentTconst": {
+                        "S": "tt12492604"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "6"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt12499628"
+                    },
+                    "parentTconst": {
+                        "S": "tt7548354"
+                    },
+                    "seasonNumber": {
+                        "N": "7"
+                    },
+                    "episodeNumber": {
+                        "N": "3"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt12732556"
+                    },
+                    "parentTconst": {
+                        "S": "tt0346306"
+                    },
+                    "seasonNumber": {
+                        "N": "6"
+                    },
+                    "episodeNumber": {
+                        "N": "59"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1277274"
+                    },
+                    "parentTconst": {
+                        "S": "tt0101113"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "6"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt12807204"
+                    },
+                    "parentTconst": {
+                        "S": "tt8994152"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1340"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13049098"
+                    },
+                    "parentTconst": {
+                        "S": "tt12404596"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "45"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1309068"
+                    },
+                    "parentTconst": {
+                        "S": "tt0043224"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "9"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13108908"
+                    },
+                    "parentTconst": {
+                        "S": "tt12263940"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "583"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13162518"
+                    },
+                    "parentTconst": {
+                        "S": "tt1572006"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13182452"
+                    },
+                    "parentTconst": {
+                        "S": "tt0963864"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13183830"
+                    },
+                    "parentTconst": {
+                        "S": "tt0120986"
+                    },
+                    "seasonNumber": {
+                        "N": "11"
+                    },
+                    "episodeNumber": {
+                        "N": "147"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1326619"
+                    },
+                    "parentTconst": {
+                        "S": "tt1245693"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "3"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13383812"
+                    },
+                    "parentTconst": {
+                        "S": "tt0106053"
+                    },
+                    "seasonNumber": {
+                        "N": "12"
+                    },
+                    "episodeNumber": {
+                        "N": "92"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13418966"
+                    },
+                    "parentTconst": {
+                        "S": "tt1752508"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "197"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13443276"
+                    },
+                    "parentTconst": {
+                        "S": "tt1063367"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "210"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13445642"
+                    },
+                    "parentTconst": {
+                        "S": "tt2679094"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13459710"
+                    },
+                    "parentTconst": {
+                        "S": "tt9022950"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "45"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1352091"
+                    },
+                    "parentTconst": {
+                        "S": "tt0372073"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13524260"
+                    },
+                    "parentTconst": {
+                        "S": "tt12790160"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "2"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13547606"
+                    },
+                    "parentTconst": {
+                        "S": "tt0088550"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "4196"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13551204"
+                    },
+                    "parentTconst": {
+                        "S": "tt6556992"
+                    },
+                    "seasonNumber": {
+                        "N": "12"
+                    },
+                    "episodeNumber": {
+                        "N": "7"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13596436"
+                    },
+                    "parentTconst": {
+                        "S": "tt13586032"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "10"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13597112"
+                    },
+                    "parentTconst": {
+                        "S": "tt0065288"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "36"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13622498"
+                    },
+                    "parentTconst": {
+                        "S": "tt11042448"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "63"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13638874"
+                    },
+                    "parentTconst": {
+                        "S": "tt0306364"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1164"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13652896"
+                    },
+                    "parentTconst": {
+                        "S": "tt6873926"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "5"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13658004"
+                    },
+                    "parentTconst": {
+                        "S": "tt0357399"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "81"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13673384"
+                    },
+                    "parentTconst": {
+                        "S": "tt0090493"
+                    },
+                    "seasonNumber": {
+                        "N": "11"
+                    },
+                    "episodeNumber": {
+                        "N": "80"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13716556"
+                    },
+                    "parentTconst": {
+                        "S": "tt12826520"
+                    },
+                    "seasonNumber": {
+                        "N": "4"
+                    },
+                    "episodeNumber": {
+                        "N": "8"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13756852"
+                    },
+                    "parentTconst": {
+                        "S": "tt2645058"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "19"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13789570"
+                    },
+                    "parentTconst": {
+                        "S": "tt1226707"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "9"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13865992"
+                    },
+                    "parentTconst": {
+                        "S": "tt5065318"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "6"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt13990514"
+                    },
+                    "parentTconst": {
+                        "S": "tt8822048"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "6"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt14049296"
+                    },
+                    "parentTconst": {
+                        "S": "tt14036624"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "3"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt14073348"
+                    },
+                    "parentTconst": {
+                        "S": "tt9315194"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "49"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt14096414"
+                    },
+                    "parentTconst": {
+                        "S": "tt11844982"
+                    },
+                    "seasonNumber": {
+                        "N": "9"
+                    },
+                    "episodeNumber": {
+                        "N": "16"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt14148462"
+                    },
+                    "parentTconst": {
+                        "S": "tt9098028"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt14172636"
+                    },
+                    "parentTconst": {
+                        "S": "tt12531964"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "140"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt14340966"
+                    },
+                    "parentTconst": {
+                        "S": "tt12434202"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "320"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt14541574"
+                    },
+                    "parentTconst": {
+                        "S": "tt0317025"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "15"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt14672210"
+                    },
+                    "parentTconst": {
+                        "S": "tt14654696"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "67"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt14686356"
+                    },
+                    "parentTconst": {
+                        "S": "tt0815960"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "112"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt14693368"
+                    },
+                    "parentTconst": {
+                        "S": "tt1534993"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "2"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt14717946"
+                    },
+                    "parentTconst": {
+                        "S": "tt12492116"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "144"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1473656"
+                    },
+                    "parentTconst": {
+                        "S": "tt0106090"
+                    },
+                    "seasonNumber": {
+                        "N": "16"
+                    },
+                    "episodeNumber": {
+                        "N": "74"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt14958490"
+                    },
+                    "parentTconst": {
+                        "S": "tt6558936"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1491"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt14968938"
+                    },
+                    "parentTconst": {
+                        "S": "tt0135733"
+                    },
+                    "seasonNumber": {
+                        "N": "7"
+                    },
+                    "episodeNumber": {
+                        "N": "5"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt15046018"
+                    },
+                    "parentTconst": {
+                        "S": "tt0194599"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1855"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt15101938"
+                    },
+                    "parentTconst": {
+                        "S": "tt15402976"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "5"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt15115730"
+                    },
+                    "parentTconst": {
+                        "S": "tt15096872"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt15117788"
+                    },
+                    "parentTconst": {
+                        "S": "tt4287744"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "637"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt15223714"
+                    },
+                    "parentTconst": {
+                        "S": "tt13659982"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt15234144"
+                    },
+                    "parentTconst": {
+                        "S": "tt0385416"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "10"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt15353502"
+                    },
+                    "parentTconst": {
+                        "S": "tt15243520"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "14"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1535801"
+                    },
+                    "parentTconst": {
+                        "S": "tt0088580"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1235"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt15490588"
+                    },
+                    "parentTconst": {
+                        "S": "tt15243520"
+                    },
+                    "seasonNumber": {
+                        "N": "10"
+                    },
+                    "episodeNumber": {
+                        "N": "62"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt15534014"
+                    },
+                    "parentTconst": {
+                        "S": "tt14521842"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt15597848"
+                    },
+                    "parentTconst": {
+                        "S": "tt8097356"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt15626816"
+                    },
+                    "parentTconst": {
+                        "S": "tt12867838"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "448"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt15752130"
+                    },
+                    "parentTconst": {
+                        "S": "tt12457946"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "18"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt15757910"
+                    },
+                    "parentTconst": {
+                        "S": "tt0315288"
+                    },
+                    "seasonNumber": {
+                        "N": "16"
+                    },
+                    "episodeNumber": {
+                        "N": "64"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt15857970"
+                    },
+                    "parentTconst": {
+                        "S": "tt0217211"
+                    },
+                    "seasonNumber": {
+                        "N": "26"
+                    },
+                    "episodeNumber": {
+                        "N": "44"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt15866508"
+                    },
+                    "parentTconst": {
+                        "S": "tt0439979"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "2147"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt15899376"
+                    },
+                    "parentTconst": {
+                        "S": "tt15893082"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt15997782"
+                    },
+                    "parentTconst": {
+                        "S": "tt15975418"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt16173110"
+                    },
+                    "parentTconst": {
+                        "S": "tt14153136"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "10"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt16222616"
+                    },
+                    "parentTconst": {
+                        "S": "tt1132615"
+                    },
+                    "seasonNumber": {
+                        "N": "12"
+                    },
+                    "episodeNumber": {
+                        "N": "129"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt16228314"
+                    },
+                    "parentTconst": {
+                        "S": "tt9464158"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1635623"
+                    },
+                    "parentTconst": {
+                        "S": "tt1493239"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt16372210"
+                    },
+                    "parentTconst": {
+                        "S": "tt9044932"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "992"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt16417672"
+                    },
+                    "parentTconst": {
+                        "S": "tt7755316"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt16430762"
+                    },
+                    "parentTconst": {
+                        "S": "tt2389428"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "198"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt16495438"
+                    },
+                    "parentTconst": {
+                        "S": "tt1527854"
+                    },
+                    "seasonNumber": {
+                        "N": "12"
+                    },
+                    "episodeNumber": {
+                        "N": "215"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt16710294"
+                    },
+                    "parentTconst": {
+                        "S": "tt5727926"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "45"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt16759646"
+                    },
+                    "parentTconst": {
+                        "S": "tt0434733"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "2731"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt16942430"
+                    },
+                    "parentTconst": {
+                        "S": "tt14157444"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "125"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1697413"
+                    },
+                    "parentTconst": {
+                        "S": "tt0042111"
+                    },
+                    "seasonNumber": {
+                        "N": "8"
+                    },
+                    "episodeNumber": {
+                        "N": "9"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1699848"
+                    },
+                    "parentTconst": {
+                        "S": "tt0283706"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1707158"
+                    },
+                    "parentTconst": {
+                        "S": "tt0217224"
+                    },
+                    "seasonNumber": {
+                        "N": "5"
+                    },
+                    "episodeNumber": {
+                        "N": "24"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1712309"
+                    },
+                    "parentTconst": {
+                        "S": "tt0247094"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1712488"
+                    },
+                    "parentTconst": {
+                        "S": "tt0227972"
+                    },
+                    "seasonNumber": {
+                        "N": "12"
+                    },
+                    "episodeNumber": {
+                        "N": "42"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt17321566"
+                    },
+                    "parentTconst": {
+                        "S": "tt15825104"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "4"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt17775960"
+                    },
+                    "parentTconst": {
+                        "S": "tt15839028"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "2"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt17793396"
+                    },
+                    "parentTconst": {
+                        "S": "tt0043229"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "7787"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1800520"
+                    },
+                    "parentTconst": {
+                        "S": "tt0057756"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "12"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt18298736"
+                    },
+                    "parentTconst": {
+                        "S": "tt0403814"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt18364390"
+                    },
+                    "parentTconst": {
+                        "S": "tt18362430"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt18555970"
+                    },
+                    "parentTconst": {
+                        "S": "tt12492310"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "10"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt18602588"
+                    },
+                    "parentTconst": {
+                        "S": "tt0409628"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt18647622"
+                    },
+                    "parentTconst": {
+                        "S": "tt0402706"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "948"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1884017"
+                    },
+                    "parentTconst": {
+                        "S": "tt0231045"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "15"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt19036110"
+                    },
+                    "parentTconst": {
+                        "S": "tt4658952"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "136"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1922017"
+                    },
+                    "parentTconst": {
+                        "S": "tt0381791"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt19494420"
+                    },
+                    "parentTconst": {
+                        "S": "tt13471320"
+                    },
+                    "seasonNumber": {
+                        "N": "4"
+                    },
+                    "episodeNumber": {
+                        "N": "15"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt19497966"
+                    },
+                    "parentTconst": {
+                        "S": "tt2733504"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "20"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt1957474"
+                    },
+                    "parentTconst": {
+                        "S": "tt0172040"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "97"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt19852552"
+                    },
+                    "parentTconst": {
+                        "S": "tt0932859"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "498"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt19995988"
+                    },
+                    "parentTconst": {
+                        "S": "tt17493716"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "95"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt20124244"
+                    },
+                    "parentTconst": {
+                        "S": "tt16282058"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2013799"
+                    },
+                    "parentTconst": {
+                        "S": "tt0386946"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "825"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2024673"
+                    },
+                    "parentTconst": {
+                        "S": "tt0410975"
+                    },
+                    "seasonNumber": {
+                        "N": "8"
+                    },
+                    "episodeNumber": {
+                        "N": "7"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt20278934"
+                    },
+                    "parentTconst": {
+                        "S": "tt12398472"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "464"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2036835"
+                    },
+                    "parentTconst": {
+                        "S": "tt1926497"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt20426778"
+                    },
+                    "parentTconst": {
+                        "S": "tt0048845"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt20605358"
+                    },
+                    "parentTconst": {
+                        "S": "tt11042448"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "123"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt20784070"
+                    },
+                    "parentTconst": {
+                        "S": "tt0224835"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "453"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2083599"
+                    },
+                    "parentTconst": {
+                        "S": "tt2076540"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "9"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2100331"
+                    },
+                    "parentTconst": {
+                        "S": "tt2091187"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt21056830"
+                    },
+                    "parentTconst": {
+                        "S": "tt10862280"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "26"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt21090800"
+                    },
+                    "parentTconst": {
+                        "S": "tt12243866"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt21095070"
+                    },
+                    "parentTconst": {
+                        "S": "tt18336136"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "157"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt21151362"
+                    },
+                    "parentTconst": {
+                        "S": "tt5420376"
+                    },
+                    "seasonNumber": {
+                        "N": "6"
+                    },
+                    "episodeNumber": {
+                        "N": "20"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2130850"
+                    },
+                    "parentTconst": {
+                        "S": "tt2089171"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "8"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt21312752"
+                    },
+                    "parentTconst": {
+                        "S": "tt0243081"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "10"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt21376532"
+                    },
+                    "parentTconst": {
+                        "S": "tt16738756"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt21389282"
+                    },
+                    "parentTconst": {
+                        "S": "tt8578136"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt21408690"
+                    },
+                    "parentTconst": {
+                        "S": "tt21401868"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt21426152"
+                    },
+                    "parentTconst": {
+                        "S": "tt1369323"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "348"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt21482928"
+                    },
+                    "parentTconst": {
+                        "S": "tt15234990"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "191"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2153092"
+                    },
+                    "parentTconst": {
+                        "S": "tt0262973"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "14"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2166580"
+                    },
+                    "parentTconst": {
+                        "S": "tt2160688"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "25"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2192565"
+                    },
+                    "parentTconst": {
+                        "S": "tt1878538"
+                    },
+                    "seasonNumber": {
+                        "N": "4"
+                    },
+                    "episodeNumber": {
+                        "N": "3"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt21965826"
+                    },
+                    "parentTconst": {
+                        "S": "tt0405546"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "252"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt22264272"
+                    },
+                    "parentTconst": {
+                        "S": "tt9690112"
+                    },
+                    "seasonNumber": {
+                        "N": "7"
+                    },
+                    "episodeNumber": {
+                        "N": "6"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2233034"
+                    },
+                    "parentTconst": {
+                        "S": "tt2185037"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "32"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2240944"
+                    },
+                    "parentTconst": {
+                        "S": "tt0403755"
+                    },
+                    "seasonNumber": {
+                        "N": "4"
+                    },
+                    "episodeNumber": {
+                        "N": "6"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt22895360"
+                    },
+                    "parentTconst": {
+                        "S": "tt22462426"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt23131688"
+                    },
+                    "parentTconst": {
+                        "S": "tt0765274"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2320306"
+                    },
+                    "parentTconst": {
+                        "S": "tt1974228"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "9"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2330574"
+                    },
+                    "parentTconst": {
+                        "S": "tt0381791"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2346279"
+                    },
+                    "parentTconst": {
+                        "S": "tt0346307"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt23555318"
+                    },
+                    "parentTconst": {
+                        "S": "tt2793136"
+                    },
+                    "seasonNumber": {
+                        "N": "16"
+                    },
+                    "episodeNumber": {
+                        "N": "44"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2358505"
+                    },
+                    "parentTconst": {
+                        "S": "tt0297617"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "95"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt23835448"
+                    },
+                    "parentTconst": {
+                        "S": "tt0324752"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "53"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2393600"
+                    },
+                    "parentTconst": {
+                        "S": "tt0414740"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2394253"
+                    },
+                    "parentTconst": {
+                        "S": "tt2028950"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "105"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt24020174"
+                    },
+                    "parentTconst": {
+                        "S": "tt23863450"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt24241212"
+                    },
+                    "parentTconst": {
+                        "S": "tt9140634"
+                    },
+                    "seasonNumber": {
+                        "N": "7"
+                    },
+                    "episodeNumber": {
+                        "N": "2"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2443056"
+                    },
+                    "parentTconst": {
+                        "S": "tt2340841"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "16"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2448512"
+                    },
+                    "parentTconst": {
+                        "S": "tt2229907"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2462480"
+                    },
+                    "parentTconst": {
+                        "S": "tt1873887"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "10"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2492110"
+                    },
+                    "parentTconst": {
+                        "S": "tt1782740"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "119"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt26219906"
+                    },
+                    "parentTconst": {
+                        "S": "tt25437382"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt26398398"
+                    },
+                    "parentTconst": {
+                        "S": "tt0044298"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "2079"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt26740133"
+                    },
+                    "parentTconst": {
+                        "S": "tt0315002"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1218"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2681830"
+                    },
+                    "parentTconst": {
+                        "S": "tt1152300"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt26897995"
+                    },
+                    "parentTconst": {
+                        "S": "tt20854304"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "176"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt26900060"
+                    },
+                    "parentTconst": {
+                        "S": "tt7331364"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "22"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt26915567"
+                    },
+                    "parentTconst": {
+                        "S": "tt13863828"
+                    },
+                    "seasonNumber": {
+                        "N": "6"
+                    },
+                    "episodeNumber": {
+                        "N": "32"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt27079299"
+                    },
+                    "parentTconst": {
+                        "S": "tt0048845"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "6194"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt27121491"
+                    },
+                    "parentTconst": {
+                        "S": "tt7124904"
+                    },
+                    "seasonNumber": {
+                        "N": "6"
+                    },
+                    "episodeNumber": {
+                        "N": "36"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt27169756"
+                    },
+                    "parentTconst": {
+                        "S": "tt5327776"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "5"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt27469052"
+                    },
+                    "parentTconst": {
+                        "S": "tt27090066"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt27488521"
+                    },
+                    "parentTconst": {
+                        "S": "tt10230484"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "138"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt2749532"
+                    },
+                    "parentTconst": {
+                        "S": "tt2445702"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "42"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt27511845"
+                    },
+                    "parentTconst": {
+                        "S": "tt13960086"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "722"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt27634602"
+                    },
+                    "parentTconst": {
+                        "S": "tt11708996"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "5"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt27811717"
+                    },
+                    "parentTconst": {
+                        "S": "tt0162076"
+                    },
+                    "seasonNumber": {
+                        "N": "13"
+                    },
+                    "episodeNumber": {
+                        "N": "148"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt28023977"
+                    },
+                    "parentTconst": {
+                        "S": "tt0054560"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "260"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt28099563"
+                    },
+                    "parentTconst": {
+                        "S": "tt0044265"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "3492"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt28428734"
+                    },
+                    "parentTconst": {
+                        "S": "tt0065335"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt28435699"
+                    },
+                    "parentTconst": {
+                        "S": "tt1480165"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "2625"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt28477716"
+                    },
+                    "parentTconst": {
+                        "S": "tt28477584"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "23"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt28481694"
+                    },
+                    "parentTconst": {
+                        "S": "tt0056758"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "4045"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt28512220"
+                    },
+                    "parentTconst": {
+                        "S": "tt0056758"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "2315"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt28546811"
+                    },
+                    "parentTconst": {
+                        "S": "tt15148652"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt28889796"
+                    },
+                    "parentTconst": {
+                        "S": "tt15536826"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt28980396"
+                    },
+                    "parentTconst": {
+                        "S": "tt28699095"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt29010509"
+                    },
+                    "parentTconst": {
+                        "S": "tt29010119"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "21"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt29041160"
+                    },
+                    "parentTconst": {
+                        "S": "tt1981471"
+                    },
+                    "seasonNumber": {
+                        "N": "13"
+                    },
+                    "episodeNumber": {
+                        "N": "185"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt29172934"
+                    },
+                    "parentTconst": {
+                        "S": "tt29041855"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt29231983"
+                    },
+                    "parentTconst": {
+                        "S": "tt19862726"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "76"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt29282070"
+                    },
+                    "parentTconst": {
+                        "S": "tt11488506"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt29352189"
+                    },
+                    "parentTconst": {
+                        "S": "tt10873758"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "26"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt29543020"
+                    },
+                    "parentTconst": {
+                        "S": "tt13125938"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "12"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt29593596"
+                    },
+                    "parentTconst": {
+                        "S": "tt0307786"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "62"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt29632450"
+                    },
+                    "parentTconst": {
+                        "S": "tt17060886"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "24"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt29866541"
+                    },
+                    "parentTconst": {
+                        "S": "tt0055714"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt30143881"
+                    },
+                    "parentTconst": {
+                        "S": "tt0184693"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt30227837"
+                    },
+                    "parentTconst": {
+                        "S": "tt0056758"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "15459"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt30261566"
+                    },
+                    "parentTconst": {
+                        "S": "tt30254746"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "87"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt30265043"
+                    },
+                    "parentTconst": {
+                        "S": "tt30254746"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "2909"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt30960063"
+                    },
+                    "parentTconst": {
+                        "S": "tt0054560"
+                    },
+                    "seasonNumber": {
+                        "N": "6"
+                    },
+                    "episodeNumber": {
+                        "N": "186"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt31236059"
+                    },
+                    "parentTconst": {
+                        "S": "tt0955183"
+                    },
+                    "seasonNumber": {
+                        "N": "19"
+                    },
+                    "episodeNumber": {
+                        "N": "269"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt31435679"
+                    },
+                    "parentTconst": {
+                        "S": "tt0068069"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "4561"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt3155020"
+                    },
+                    "parentTconst": {
+                        "S": "tt2445702"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "179"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt31610832"
+                    },
+                    "parentTconst": {
+                        "S": "tt13364380"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1009"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt3204762"
+                    },
+                    "parentTconst": {
+                        "S": "tt0399989"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "979"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt3214806"
+                    },
+                    "parentTconst": {
+                        "S": "tt0185065"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt32174191"
+                    },
+                    "parentTconst": {
+                        "S": "tt32109808"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt32198828"
+                    },
+                    "parentTconst": {
+                        "S": "tt32189072"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "940"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt32409908"
+                    },
+                    "parentTconst": {
+                        "S": "tt31452227"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "18"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt32757482"
+                    },
+                    "parentTconst": {
+                        "S": "tt32748940"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1076"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt32848710"
+                    },
+                    "parentTconst": {
+                        "S": "tt32827718"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "653"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt3295656"
+                    },
+                    "parentTconst": {
+                        "S": "tt3283590"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "5"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt33041227"
+                    },
+                    "parentTconst": {
+                        "S": "tt15800488"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt33082198"
+                    },
+                    "parentTconst": {
+                        "S": "tt33062164"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "5627"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt33143148"
+                    },
+                    "parentTconst": {
+                        "S": "tt0302203"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt33252539"
+                    },
+                    "parentTconst": {
+                        "S": "tt6119392"
+                    },
+                    "seasonNumber": {
+                        "N": "5"
+                    },
+                    "episodeNumber": {
+                        "N": "16"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt33317976"
+                    },
+                    "parentTconst": {
+                        "S": "tt0198138"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "125"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt33503739"
+                    },
+                    "parentTconst": {
+                        "S": "tt6139434"
+                    },
+                    "seasonNumber": {
+                        "N": "4"
+                    },
+                    "episodeNumber": {
+                        "N": "5"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt3410788"
+                    },
+                    "parentTconst": {
+                        "S": "tt0296453"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "25"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt34150275"
+                    },
+                    "parentTconst": {
+                        "S": "tt11311910"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "428"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt34595047"
+                    },
+                    "parentTconst": {
+                        "S": "tt13276858"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1073"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt34716639"
+                    },
+                    "parentTconst": {
+                        "S": "tt14635500"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "888"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt3478576"
+                    },
+                    "parentTconst": {
+                        "S": "tt2235196"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt34995929"
+                    },
+                    "parentTconst": {
+                        "S": "tt5390410"
+                    },
+                    "seasonNumber": {
+                        "N": "4"
+                    },
+                    "episodeNumber": {
+                        "N": "4"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt3501546"
+                    },
+                    "parentTconst": {
+                        "S": "tt2719784"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "10"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt35192821"
+                    },
+                    "parentTconst": {
+                        "S": "tt27598192"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "4"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt35242359"
+                    },
+                    "parentTconst": {
+                        "S": "tt1421722"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt35325492"
+                    },
+                    "parentTconst": {
+                        "S": "tt35292943"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt35443448"
+                    },
+                    "parentTconst": {
+                        "S": "tt26591110"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "11"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt35488229"
+                    },
+                    "parentTconst": {
+                        "S": "tt35487683"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "27"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt3563480"
+                    },
+                    "parentTconst": {
+                        "S": "tt0414740"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt3613788"
+                    },
+                    "parentTconst": {
+                        "S": "tt0058817"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "28"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt3763654"
+                    },
+                    "parentTconst": {
+                        "S": "tt3405564"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "2"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt3767972"
+                    },
+                    "parentTconst": {
+                        "S": "tt2751638"
+                    },
+                    "seasonNumber": {
+                        "N": "10"
+                    },
+                    "episodeNumber": {
+                        "N": "2"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt3788352"
+                    },
+                    "parentTconst": {
+                        "S": "tt3774938"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "10"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt3896266"
+                    },
+                    "parentTconst": {
+                        "S": "tt2610260"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "13"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt3925716"
+                    },
+                    "parentTconst": {
+                        "S": "tt1985601"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "336"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt4036912"
+                    },
+                    "parentTconst": {
+                        "S": "tt3846894"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "23"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt4037252"
+                    },
+                    "parentTconst": {
+                        "S": "tt1517109"
+                    },
+                    "seasonNumber": {
+                        "N": "6"
+                    },
+                    "episodeNumber": {
+                        "N": "6"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt4183014"
+                    },
+                    "parentTconst": {
+                        "S": "tt2753240"
+                    },
+                    "seasonNumber": {
+                        "N": "4"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt4222414"
+                    },
+                    "parentTconst": {
+                        "S": "tt4079214"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "7"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt4240342"
+                    },
+                    "parentTconst": {
+                        "S": "tt0057731"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "2731"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt4248554"
+                    },
+                    "parentTconst": {
+                        "S": "tt0309123"
+                    },
+                    "seasonNumber": {
+                        "N": "34"
+                    },
+                    "episodeNumber": {
+                        "N": "38"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt4281510"
+                    },
+                    "parentTconst": {
+                        "S": "tt0214358"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "40"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt4297822"
+                    },
+                    "parentTconst": {
+                        "S": "tt4292746"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "2"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt4443144"
+                    },
+                    "parentTconst": {
+                        "S": "tt4428592"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "7"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt4469944"
+                    },
+                    "parentTconst": {
+                        "S": "tt0170980"
+                    },
+                    "seasonNumber": {
+                        "N": "19"
+                    },
+                    "episodeNumber": {
+                        "N": "13"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt4503092"
+                    },
+                    "parentTconst": {
+                        "S": "tt6854924"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt4539306"
+                    },
+                    "parentTconst": {
+                        "S": "tt4291722"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt4555672"
+                    },
+                    "parentTconst": {
+                        "S": "tt0078669"
+                    },
+                    "seasonNumber": {
+                        "N": "8"
+                    },
+                    "episodeNumber": {
+                        "N": "3"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt4603560"
+                    },
+                    "parentTconst": {
+                        "S": "tt0419336"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt5100226"
+                    },
+                    "parentTconst": {
+                        "S": "tt4068834"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "7"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt5121428"
+                    },
+                    "parentTconst": {
+                        "S": "tt3147508"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "3"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt5169992"
+                    },
+                    "parentTconst": {
+                        "S": "tt0068069"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1484"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt5305938"
+                    },
+                    "parentTconst": {
+                        "S": "tt2855640"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt5376376"
+                    },
+                    "parentTconst": {
+                        "S": "tt5368386"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "11"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt5401216"
+                    },
+                    "parentTconst": {
+                        "S": "tt0283794"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1004"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt5433488"
+                    },
+                    "parentTconst": {
+                        "S": "tt0945531"
+                    },
+                    "seasonNumber": {
+                        "N": "11"
+                    },
+                    "episodeNumber": {
+                        "N": "97"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt5513996"
+                    },
+                    "parentTconst": {
+                        "S": "tt0305095"
+                    },
+                    "seasonNumber": {
+                        "N": "15"
+                    },
+                    "episodeNumber": {
+                        "N": "29"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt5576542"
+                    },
+                    "parentTconst": {
+                        "S": "tt0149408"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt5660274"
+                    },
+                    "parentTconst": {
+                        "S": "tt3213236"
+                    },
+                    "seasonNumber": {
+                        "N": "5"
+                    },
+                    "episodeNumber": {
+                        "N": "16"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt5732018"
+                    },
+                    "parentTconst": {
+                        "S": "tt0098911"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1068"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt5863232"
+                    },
+                    "parentTconst": {
+                        "S": "tt1746642"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt5889592"
+                    },
+                    "parentTconst": {
+                        "S": "tt4764576"
+                    },
+                    "seasonNumber": {
+                        "N": "5"
+                    },
+                    "episodeNumber": {
+                        "N": "24"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt6054152"
+                    },
+                    "parentTconst": {
+                        "S": "tt0083441"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt6137594"
+                    },
+                    "parentTconst": {
+                        "S": "tt4725820"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt6251096"
+                    },
+                    "parentTconst": {
+                        "S": "tt0318912"
+                    },
+                    "seasonNumber": {
+                        "N": "15"
+                    },
+                    "episodeNumber": {
+                        "N": "10"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt6261886"
+                    },
+                    "parentTconst": {
+                        "S": "tt5989884"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt6515238"
+                    },
+                    "parentTconst": {
+                        "S": "tt6257026"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "46"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt6676512"
+                    },
+                    "parentTconst": {
+                        "S": "tt6584916"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "4"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt6900756"
+                    },
+                    "parentTconst": {
+                        "S": "tt0284798"
+                    },
+                    "seasonNumber": {
+                        "N": "46"
+                    },
+                    "episodeNumber": {
+                        "N": "23"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt6904078"
+                    },
+                    "parentTconst": {
+                        "S": "tt6466932"
+                    },
+                    "seasonNumber": {
+                        "N": "9"
+                    },
+                    "episodeNumber": {
+                        "N": "33"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt6932588"
+                    },
+                    "parentTconst": {
+                        "S": "tt3226424"
+                    },
+                    "seasonNumber": {
+                        "N": "5"
+                    },
+                    "episodeNumber": {
+                        "N": "14"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt6949588"
+                    },
+                    "parentTconst": {
+                        "S": "tt5776052"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "3"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt6953472"
+                    },
+                    "parentTconst": {
+                        "S": "tt2568654"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "8"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt6987190"
+                    },
+                    "parentTconst": {
+                        "S": "tt6916880"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "6"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt7014546"
+                    },
+                    "parentTconst": {
+                        "S": "tt2188744"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "763"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt7117254"
+                    },
+                    "parentTconst": {
+                        "S": "tt0073991"
+                    },
+                    "seasonNumber": {
+                        "N": "9"
+                    },
+                    "episodeNumber": {
+                        "N": "206"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt7175206"
+                    },
+                    "parentTconst": {
+                        "S": "tt0068046"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "10"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt7239842"
+                    },
+                    "parentTconst": {
+                        "S": "tt6920070"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "251"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt7569192"
+                    },
+                    "parentTconst": {
+                        "S": "tt5541338"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "9"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt7580610"
+                    },
+                    "parentTconst": {
+                        "S": "tt0294140"
+                    },
+                    "seasonNumber": {
+                        "N": "22"
+                    },
+                    "episodeNumber": {
+                        "N": "332"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt7660134"
+                    },
+                    "parentTconst": {
+                        "S": "tt0281468"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "9"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt7686466"
+                    },
+                    "parentTconst": {
+                        "S": "tt7684260"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt7833254"
+                    },
+                    "parentTconst": {
+                        "S": "tt4905966"
+                    },
+                    "seasonNumber": {
+                        "N": "8"
+                    },
+                    "episodeNumber": {
+                        "N": "2"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt7844440"
+                    },
+                    "parentTconst": {
+                        "S": "tt4269458"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "63"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt7909210"
+                    },
+                    "parentTconst": {
+                        "S": "tt7532804"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "22"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt7922386"
+                    },
+                    "parentTconst": {
+                        "S": "tt7853580"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "5"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt8080892"
+                    },
+                    "parentTconst": {
+                        "S": "tt0166442"
+                    },
+                    "seasonNumber": {
+                        "N": "30"
+                    },
+                    "episodeNumber": {
+                        "N": "135"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt8147552"
+                    },
+                    "parentTconst": {
+                        "S": "tt1132615"
+                    },
+                    "seasonNumber": {
+                        "N": "10"
+                    },
+                    "episodeNumber": {
+                        "N": "118"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt8458738"
+                    },
+                    "parentTconst": {
+                        "S": "tt6603646"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt8588986"
+                    },
+                    "parentTconst": {
+                        "S": "tt4829116"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "84"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt8731048"
+                    },
+                    "parentTconst": {
+                        "S": "tt5868082"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "30"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt8792174"
+                    },
+                    "parentTconst": {
+                        "S": "tt7048386"
+                    },
+                    "seasonNumber": {
+                        "N": "2"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt8806302"
+                    },
+                    "parentTconst": {
+                        "S": "tt8774196"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "11"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt8825864"
+                    },
+                    "parentTconst": {
+                        "S": "tt1271991"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt8861014"
+                    },
+                    "parentTconst": {
+                        "S": "tt2486236"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "10"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt8899364"
+                    },
+                    "parentTconst": {
+                        "S": "tt1628033"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt8913932"
+                    },
+                    "parentTconst": {
+                        "S": "tt1271991"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt8935142"
+                    },
+                    "parentTconst": {
+                        "S": "tt0065345"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt9083002"
+                    },
+                    "parentTconst": {
+                        "S": "tt0209805"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "10"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt9107148"
+                    },
+                    "parentTconst": {
+                        "S": "tt3666228"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "170"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt9214002"
+                    },
+                    "parentTconst": {
+                        "S": "tt1912888"
+                    },
+                    "seasonNumber": {
+                        "N": "7"
+                    },
+                    "episodeNumber": {
+                        "N": "6"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt9235574"
+                    },
+                    "parentTconst": {
+                        "S": "tt0229912"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt9291688"
+                    },
+                    "parentTconst": {
+                        "S": "tt9290070"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt9387654"
+                    },
+                    "parentTconst": {
+                        "S": "tt7416084"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "38"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt9392552"
+                    },
+                    "parentTconst": {
+                        "S": "tt9378078"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "12"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt9457360"
+                    },
+                    "parentTconst": {
+                        "S": "tt2943834"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "105"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt9460214"
+                    },
+                    "parentTconst": {
+                        "S": "tt8387608"
+                    },
+                    "seasonNumber": {
+                        "N": "3"
+                    },
+                    "episodeNumber": {
+                        "N": "139"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt9609786"
+                    },
+                    "parentTconst": {
+                        "S": "tt9609308"
+                    },
+                    "seasonNumber": {
+                        "N": "6"
+                    },
+                    "episodeNumber": {
+                        "N": "1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt9715092"
+                    },
+                    "parentTconst": {
+                        "S": "tt7466450"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "389"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt9750666"
+                    },
+                    "parentTconst": {
+                        "S": "tt2282359"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "448"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt9772504"
+                    },
+                    "parentTconst": {
+                        "S": "tt0498891"
+                    },
+                    "seasonNumber": {
+                        "S": ""
+                    },
+                    "episodeNumber": {
+                        "S": ""
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt9846002"
+                    },
+                    "parentTconst": {
+                        "S": "tt0318920"
+                    },
+                    "seasonNumber": {
+                        "N": "14"
+                    },
+                    "episodeNumber": {
+                        "N": "13"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "tconst": {
+                        "S": "tt9865546"
+                    },
+                    "parentTconst": {
+                        "S": "tt7651202"
+                    },
+                    "seasonNumber": {
+                        "N": "1"
+                    },
+                    "episodeNumber": {
+                        "N": "128"
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{"Movies": [
+
+  {
+
+      "PutRequest": {
+
+          "Item": {
+
+              "tconst": { "S": "tt0003735" },
+
+              "titleType": { "S": "movie" },
+
+              "primaryTitle": { "S": "Bánk bán" },
+
+              "originalTitle": { "S": "Bánk bán" },
+
+              "isAdult": { "N": "0" },
+
+              "startYear": { "N": "1915" },
+
+              "endYear": { "S": "" },
+
+              "runtimeMinutes": { "S": "" },
+
+              "genres": { "S": "" }
+
+          }
+
+      }
+
+  },
+
+  {
+
+      "PutRequest": {
+
+          "Item": {
+
+              "tconst": { "S": "tt0019619" },
+
+              "titleType": { "S": "short" },
+
+              "primaryTitle": { "S": "Acci-Dental Treatment" },
+
+              "originalTitle": { "S": "Acci-Dental Treatment" },
+
+              "isAdult": { "N": "0" },
+
+              "startYear": { "N": "1929" },
+
+              "endYear": { "S": "" },
+
+              "runtimeMinutes": { "N": "17" },
+
+              "genres": { "S": "Comedy,Short" }
+
+          }
+
+      }
+
+  },
+
+  {
+
+      "PutRequest": {
+
+          "Item": {
+
+              "tconst": { "S": "tt0027583" },
+
+              "titleType": { "S": "short" },
+
+              "primaryTitle": { "S": "Estampas guerreras. Número 2" },
+
+              "originalTitle": { "S": "Estampas guerreras. Número 2" },
+
+              "isAdult": { "N": "0" },
+
+              "startYear": { "N": "1937" },
+
+              "endYear": { "S": "" },
+
+              "runtimeMinutes": { "S": "" },
+
+              "genres": { "S": "Documentary,Short,War" }
+
+          }
+
+      }
+
+  },
+
+  {
+
+      "PutRequest": {
+
+          "Item": {
+
+              "tconst": { "S": "tt0033199" },
+
+              "titleType": { "S": "short" },
+
+              "primaryTitle": { "S": "The Ugly Dino" },
+
+              "originalTitle": { "S": "The Ugly Dino" },
+
+              "isAdult": { "N": "0" },
+
+              "startYear": { "N": "1940" },
+
+              "endYear": { "S": "" },
+
+              "runtimeMinutes": { "N": "6" },
+
+              "genres": { "S": "Animation,Short" }
+
+          }
+
+      }
+
+  },
+
+  {
+
+      "PutRequest": {
+
+          "Item": {
+
+              "tconst": { "S": "tt0065681" },
+
+              "titleType": { "S": "movie" },
+
+              "primaryTitle": { "S": "Black Lemons" },
+
+              "originalTitle": { "S": "E venne il giorno dei limoni neri" },
+
+              "isAdult": { "N": "0" },
+
+              "startYear": { "N": "1970" },
+
+              "endYear": { "S": "" },
+
+              "runtimeMinutes": { "N": "99" },
+
+              "genres": { "S": "Action,Crime,Drama" }
+
+          }
+
+      }
+
+  }
+
+]
+}

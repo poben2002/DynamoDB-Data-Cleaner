@@ -1,0 +1,467 @@
+[
+    {
+      "tconst": "tt0003735",
+      "averageRating": "5.1",
+      "numVotes": "39"
+    },
+    {
+      "tconst": "tt0033199",
+      "averageRating": "5.9",
+      "numVotes": "38"
+    },
+    {
+      "tconst": "tt0065681",
+      "averageRating": "5.6",
+      "numVotes": "80"
+    },
+    {
+      "tconst": "tt0136344",
+      "averageRating": "6.1",
+      "numVotes": "104"
+    },
+    {
+      "tconst": "tt0317042",
+      "averageRating": "5.9",
+      "numVotes": "6097"
+    },
+    {
+      "tconst": "tt0322802",
+      "averageRating": "6.6",
+      "numVotes": "103803"
+    },
+    {
+      "tconst": "tt0335288",
+      "averageRating": "6.8",
+      "numVotes": "20"
+    },
+    {
+      "tconst": "tt0362776",
+      "averageRating": "5.4",
+      "numVotes": "47"
+    },
+    {
+      "tconst": "tt0383203",
+      "averageRating": "6.0",
+      "numVotes": "35"
+    },
+    {
+      "tconst": "tt0404881",
+      "averageRating": "5.8",
+      "numVotes": "13"
+    },
+    {
+      "tconst": "tt0426274",
+      "averageRating": "7.8",
+      "numVotes": "19"
+    },
+    {
+      "tconst": "tt0511113",
+      "averageRating": "6.3",
+      "numVotes": "465"
+    },
+    {
+      "tconst": "tt0516772",
+      "averageRating": "7.3",
+      "numVotes": "5410"
+    },
+    {
+      "tconst": "tt0574857",
+      "averageRating": "7.6",
+      "numVotes": "35"
+    },
+    {
+      "tconst": "tt0703471",
+      "averageRating": "7.8",
+      "numVotes": "12"
+    },
+    {
+      "tconst": "tt0710036",
+      "averageRating": "7.4",
+      "numVotes": "78"
+    },
+    {
+      "tconst": "tt0761285",
+      "averageRating": "8.1",
+      "numVotes": "3177"
+    },
+    {
+      "tconst": "tt0765857",
+      "averageRating": "8.7",
+      "numVotes": "15"
+    },
+    {
+      "tconst": "tt0857552",
+      "averageRating": "6.7",
+      "numVotes": "38"
+    },
+    {
+      "tconst": "tt0860417",
+      "averageRating": "5.2",
+      "numVotes": "12"
+    },
+    {
+      "tconst": "tt0884924",
+      "averageRating": "7.2",
+      "numVotes": "33"
+    },
+    {
+      "tconst": "tt0919274",
+      "averageRating": "7.9",
+      "numVotes": "8"
+    },
+    {
+      "tconst": "tt10602310",
+      "averageRating": "5.3",
+      "numVotes": "255"
+    },
+    {
+      "tconst": "tt10931128",
+      "averageRating": "5.5",
+      "numVotes": "7"
+    },
+    {
+      "tconst": "tt10934950",
+      "averageRating": "8.5",
+      "numVotes": "10"
+    },
+    {
+      "tconst": "tt1112587",
+      "averageRating": "5.4",
+      "numVotes": "452"
+    },
+    {
+      "tconst": "tt11258344",
+      "averageRating": "7.1",
+      "numVotes": "53"
+    },
+    {
+      "tconst": "tt11530204",
+      "averageRating": "8.7",
+      "numVotes": "7"
+    },
+    {
+      "tconst": "tt11820794",
+      "averageRating": "8.1",
+      "numVotes": "12"
+    },
+    {
+      "tconst": "tt12199160",
+      "averageRating": "7.4",
+      "numVotes": "22"
+    },
+    {
+      "tconst": "tt12365664",
+      "averageRating": "6.8",
+      "numVotes": "13"
+    },
+    {
+      "tconst": "tt12377674",
+      "averageRating": "6.1",
+      "numVotes": "56"
+    },
+    {
+      "tconst": "tt12452518",
+      "averageRating": "6.8",
+      "numVotes": "43"
+    },
+    {
+      "tconst": "tt1309068",
+      "averageRating": "6.4",
+      "numVotes": "9"
+    },
+    {
+      "tconst": "tt1352091",
+      "averageRating": "7.3",
+      "numVotes": "21"
+    },
+    {
+      "tconst": "tt13551204",
+      "averageRating": "5.6",
+      "numVotes": "6"
+    },
+    {
+      "tconst": "tt13622498",
+      "averageRating": "4.0",
+      "numVotes": "15"
+    },
+    {
+      "tconst": "tt13652896",
+      "averageRating": "6.0",
+      "numVotes": "167"
+    },
+    {
+      "tconst": "tt1365513",
+      "averageRating": "9.1",
+      "numVotes": "22"
+    },
+    {
+      "tconst": "tt14395212",
+      "averageRating": "8.2",
+      "numVotes": "69"
+    },
+    {
+      "tconst": "tt1508684",
+      "averageRating": "5.8",
+      "numVotes": "28"
+    },
+    {
+      "tconst": "tt15101938",
+      "averageRating": "7.6",
+      "numVotes": "3540"
+    },
+    {
+      "tconst": "tt1635623",
+      "averageRating": "7.9",
+      "numVotes": "391"
+    },
+    {
+      "tconst": "tt1697413",
+      "averageRating": "8.8",
+      "numVotes": "32"
+    },
+    {
+      "tconst": "tt1711559",
+      "averageRating": "9.2",
+      "numVotes": "5"
+    },
+    {
+      "tconst": "tt1712488",
+      "averageRating": "7.4",
+      "numVotes": "20"
+    },
+    {
+      "tconst": "tt17321566",
+      "averageRating": "9.5",
+      "numVotes": "17"
+    },
+    {
+      "tconst": "tt2004146",
+      "averageRating": "7.8",
+      "numVotes": "13"
+    },
+    {
+      "tconst": "tt2024673",
+      "averageRating": "7.9",
+      "numVotes": "509"
+    },
+    {
+      "tconst": "tt20605358",
+      "averageRating": "6.5",
+      "numVotes": "9"
+    },
+    {
+      "tconst": "tt2087985",
+      "averageRating": "6.5",
+      "numVotes": "1337"
+    },
+    {
+      "tconst": "tt21056830",
+      "averageRating": "6.4",
+      "numVotes": "15"
+    },
+    {
+      "tconst": "tt21151362",
+      "averageRating": "6.6",
+      "numVotes": "459"
+    },
+    {
+      "tconst": "tt21376532",
+      "averageRating": "7.5",
+      "numVotes": "15"
+    },
+    {
+      "tconst": "tt2153092",
+      "averageRating": "5.8",
+      "numVotes": "7"
+    },
+    {
+      "tconst": "tt2166580",
+      "averageRating": "6.0",
+      "numVotes": "7"
+    },
+    {
+      "tconst": "tt21926586",
+      "averageRating": "5.5",
+      "numVotes": "25"
+    },
+    {
+      "tconst": "tt21977920",
+      "averageRating": "7.1",
+      "numVotes": "474"
+    },
+    {
+      "tconst": "tt2233034",
+      "averageRating": "7.0",
+      "numVotes": "14"
+    },
+    {
+      "tconst": "tt2240944",
+      "averageRating": "6.7",
+      "numVotes": "8"
+    },
+    {
+      "tconst": "tt22755524",
+      "averageRating": "8.3",
+      "numVotes": "12"
+    },
+    {
+      "tconst": "tt2443056",
+      "averageRating": "7.5",
+      "numVotes": "150"
+    },
+    {
+      "tconst": "tt2448512",
+      "averageRating": "7.4",
+      "numVotes": "84"
+    },
+    {
+      "tconst": "tt2462480",
+      "averageRating": "6.9",
+      "numVotes": "7"
+    },
+    {
+      "tconst": "tt27049600",
+      "averageRating": "8.4",
+      "numVotes": "7"
+    },
+    {
+      "tconst": "tt2991368",
+      "averageRating": "4.5",
+      "numVotes": "76"
+    },
+    {
+      "tconst": "tt3073876",
+      "averageRating": "6.1",
+      "numVotes": "165"
+    },
+    {
+      "tconst": "tt3361490",
+      "averageRating": "7.1",
+      "numVotes": "28"
+    },
+    {
+      "tconst": "tt3393790",
+      "averageRating": "5.2",
+      "numVotes": "13"
+    },
+    {
+      "tconst": "tt3410788",
+      "averageRating": "7.2",
+      "numVotes": "6"
+    },
+    {
+      "tconst": "tt3478576",
+      "averageRating": "8.7",
+      "numVotes": "11"
+    },
+    {
+      "tconst": "tt3501546",
+      "averageRating": "8.5",
+      "numVotes": "149"
+    },
+    {
+      "tconst": "tt3613788",
+      "averageRating": "6.6",
+      "numVotes": "16"
+    },
+    {
+      "tconst": "tt3767972",
+      "averageRating": "7.4",
+      "numVotes": "13"
+    },
+    {
+      "tconst": "tt3896266",
+      "averageRating": "7.6",
+      "numVotes": "74"
+    },
+    {
+      "tconst": "tt4222414",
+      "averageRating": "8.2",
+      "numVotes": "42"
+    },
+    {
+      "tconst": "tt4276498",
+      "averageRating": "7.8",
+      "numVotes": "28"
+    },
+    {
+      "tconst": "tt4503092",
+      "averageRating": "7.7",
+      "numVotes": "21"
+    },
+    {
+      "tconst": "tt4539306",
+      "averageRating": "7.8",
+      "numVotes": "11"
+    },
+    {
+      "tconst": "tt5513996",
+      "averageRating": "7.0",
+      "numVotes": "9"
+    },
+    {
+      "tconst": "tt6137594",
+      "averageRating": "7.5",
+      "numVotes": "12"
+    },
+    {
+      "tconst": "tt6466446",
+      "averageRating": "6.4",
+      "numVotes": "6"
+    },
+    {
+      "tconst": "tt6949588",
+      "averageRating": "7.0",
+      "numVotes": "11"
+    },
+    {
+      "tconst": "tt7236434",
+      "averageRating": "5.7",
+      "numVotes": "77"
+    },
+    {
+      "tconst": "tt7569192",
+      "averageRating": "7.8",
+      "numVotes": "243"
+    },
+    {
+      "tconst": "tt7686466",
+      "averageRating": "7.4",
+      "numVotes": "97"
+    },
+    {
+      "tconst": "tt7922386",
+      "averageRating": "6.7",
+      "numVotes": "11"
+    },
+    {
+      "tconst": "tt8728872",
+      "averageRating": "7.8",
+      "numVotes": "225"
+    },
+    {
+      "tconst": "tt8731048",
+      "averageRating": "9.2",
+      "numVotes": "18"
+    },
+    {
+      "tconst": "tt8792174",
+      "averageRating": "7.7",
+      "numVotes": "56"
+    },
+    {
+      "tconst": "tt8899364",
+      "averageRating": "4.1",
+      "numVotes": "15"
+    },
+    {
+      "tconst": "tt8998584",
+      "averageRating": "7.9",
+      "numVotes": "86"
+    },
+    {
+      "tconst": "tt9644058",
+      "averageRating": "7.4",
+      "numVotes": "5771"
+    }
+  ]
