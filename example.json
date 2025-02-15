@@ -1,0 +1,134 @@
+{
+    "tconst": {
+      "S": "tt29231983"
+    },
+    "cast": {
+      "L": [
+        {
+          "M": {
+            "category": {
+              "S": "self"
+            },
+            "characters": {
+              "S": "\"[\\\"Self\\\"]\""
+            },
+            "name": {
+              "S": "Tanya Acker"
+            },
+            "nconst": {
+              "S": "nm2897914"
+            }
+          }
+        },
+        {
+          "M": {
+            "category": {
+              "S": "self"
+            },
+            "characters": {
+              "S": "\"[\\\"Self\\\"]\""
+            },
+            "name": {
+              "S": "Patricia DiMango"
+            },
+            "nconst": {
+              "S": "nm6622815"
+            }
+          }
+        },
+        {
+          "M": {
+            "category": {
+              "S": "self"
+            },
+            "characters": {
+              "S": "\"[\\\"Self\\\"]\""
+            },
+            "name": {
+              "S": "Petri Hawkins Byrd"
+            },
+            "nconst": {
+              "S": "nm0370257"
+            }
+          }
+        },
+        {
+          "M": {
+            "category": {
+              "S": "self"
+            },
+            "characters": {
+              "S": "\"[\\\"Self - Bailiff\\\"]\""
+            },
+            "name": {
+              "S": "Cassandra Britt"
+            },
+            "nconst": {
+              "S": "nm14767781"
+            }
+          }
+        },
+        {
+          "M": {
+            "category": {
+              "S": "self"
+            },
+            "characters": {
+              "S": "\"[\\\"Self\\\"]\""
+            },
+            "name": {
+              "S": "Adam Levy"
+            },
+            "nconst": {
+              "S": "nm13614863"
+            }
+          }
+        }
+      ]
+    },
+    "crew": {
+      "M": {
+        "directors": {
+          "L": []
+        },
+        "writers": {
+          "L": []
+        }
+      }
+    },
+    "episodes": {
+      "L": []
+    },
+    "genres": {
+      "L": [
+        {
+          "S": "Reality-TV"
+        }
+      ]
+    },
+    "isAdult": {
+      "N": "0"
+    },
+    "originalTitle": {
+      "S": "Buyer Beware"
+    },
+    "primaryTitle": {
+      "S": "Buyer Beware"
+    },
+    "ratings": {
+      "M": {
+        "averageRating": {
+          "N": "0"
+        },
+        "numVotes": {
+          "N": "0"
+        }
+      }
+    },
+    "startYear": {
+      "N": "2023"
+    },
+    "titleType": {
+      "S": "tvEpisode"
+    }
+  }
